@@ -1,0 +1,7 @@
+1. Funcion que capture los datos del usuario llamada "pregunta" con un prompt
+
+2. Llamar la funcion cambiando strings 
+
+3. Comparar resultado con tabla 
+
+4. Imprimir la posibilidad diagnostica
