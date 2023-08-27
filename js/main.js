@@ -37,7 +37,7 @@ function pregunta (string,int){
 
     /* Control de respuesta boolean */
 
-    while ((variable != "si") && (variable != "no")){
+    while ((variable.toUpperCase() != "SI") && (variable.toUpperCase() != "NO")){
         alert("❌ Respuesta incorrecta!. Ingrese SI o NO");
         variable = prompt(string);
     }   
